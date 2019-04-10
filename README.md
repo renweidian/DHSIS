@@ -1,5 +1,5 @@
 # DHSIS
-The is the implentation of <br> "Renwei Dian, Shutao Li, Anjing Guo, and Leyuan Fang, “Deep hyperspectral image sharpening,” IEEE Transactions on Neural Networks and Learning Systems, vol. 29, no. 11, 2018." <br>
+The code is the implentation of <br> "Renwei Dian, Shutao Li, Anjing Guo, and Leyuan Fang, “Deep hyperspectral image sharpening,” IEEE Transactions on Neural Networks and Learning Systems, vol. 29, no. 11, 2018." <br>
 if you use the code, please kindly cite the following paper: <br>
 @ARTICLE{DHSIS,
 author={R. Dian and S. Li and A. Guo and L. Fang},
